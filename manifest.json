@@ -1,0 +1,14 @@
+{
+	"name": "EquiMocha",
+	"description": "Upload files to Mocha and share the link in chat",
+	"authors": [
+		{
+			"name": "nxllxvxxd2",
+			"id": "0"
+		}
+	],
+	"main": "src/index.ts",
+	"vendetta": {
+		"icon": "UploadIcon"
+	}
+}

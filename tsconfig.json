@@ -1,0 +1,22 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"baseUrl": "./src/",
+		"esModuleInterop": true,
+		"jsx": "react-native",
+		"module": "esnext",
+		"moduleResolution": "bundler",
+		"noImplicitAny": false,
+		"allowImportingTsExtensions": true,
+		"noEmit": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"target": "esnext"
+	},
+	"include": [
+		"src/**/*",
+		"build.ts",
+		"node_modules/vendetta-types/defs.d.ts"
+	]
+}
